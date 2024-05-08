@@ -1,0 +1,14 @@
+.first-section {
+    background-color: cyan; 
+    color: black; 
+    border: 5px solid black; 
+    padding-left: 10px;
+}
+
+.second-section {
+    background-color: cadetblue;
+}
+
+.paragraph {
+    color: red;
+}
